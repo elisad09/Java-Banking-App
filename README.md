@@ -1,7 +1,5 @@
 # Java-Banking-App
 
-# Financial Application
-
 ## Overview
 
 This project is a financial application designed to manage user accounts, handle stock exchanges, and execute various commands related to financial transactions. The application consists of multiple classes that work together to provide a comprehensive solution for financial operations.
